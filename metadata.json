@@ -1,0 +1,7 @@
+{
+  "name": "Gesture-Controlled 3D Particles",
+  "description": "A real-time interactive 3D particle Christmas tree controlled by hand gestures. Uses Three.js for visuals and MediaPipe for hand tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
